@@ -13,3 +13,6 @@ Everything　搜索文件很快，就是利用的　NTFS　分区的　USN　功
 如果有深入学习，可以查看　“Everything 软件及源码资料”　文件夹，里面有源码可以学习。
 
 ＝＝＝＝＝＝＝＝＝＝＝＝以上修改日期：2017年9月29日＝＝＝＝＝＝＝＝＝＝＝＝
+
+![EverythingSZ](https://github.com/yuanrui/EverythingSZ)
+![Fake Everything](https://github.com/LeiHao0/Fake-Everything)
