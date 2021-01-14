@@ -14,5 +14,6 @@ Everything　搜索文件很快，就是利用的　NTFS　分区的　USN　功
 
 ＝＝＝＝＝＝＝＝＝＝＝＝以上修改日期：2017年9月29日＝＝＝＝＝＝＝＝＝＝＝＝
 
-![EverythingSZ](https://github.com/yuanrui/EverythingSZ)
-![Fake Everything](https://github.com/LeiHao0/Fake-Everything)
+[EverythingSZ](https://github.com/yuanrui/EverythingSZ)
+
+[Fake Everything](https://github.com/LeiHao0/Fake-Everything)
